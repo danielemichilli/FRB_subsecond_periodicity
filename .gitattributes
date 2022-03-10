@@ -1,0 +1,17 @@
+data/65777546_data.npz filter=lfs diff=lfs merge=lfs -text
+data/156410110_polarisation_profile.npy filter=lfs diff=lfs merge=lfs -text
+data/65777546_mcmc_chains.npy filter=lfs diff=lfs merge=lfs -text
+data/157646917_data.npz filter=lfs diff=lfs merge=lfs -text
+data/157646917_timing.npz filter=lfs diff=lfs merge=lfs -text
+data/sim_p6_g1_chi0.2.npy filter=lfs diff=lfs merge=lfs -text
+data/sim_p9_g5_chi0.2.npy filter=lfs diff=lfs merge=lfs -text
+data/156410110_plot_data.npz filter=lfs diff=lfs merge=lfs -text
+data/157646917_mcmc_chains.npy filter=lfs diff=lfs merge=lfs -text
+data/65777546_timing.npz filter=lfs diff=lfs merge=lfs -text
+data/chi2red.npz filter=lfs diff=lfs merge=lfs -text
+data/156410110_mcmc_chains.npy filter=lfs diff=lfs merge=lfs -text
+data/sim_p5_g2_chi0.2.npy filter=lfs diff=lfs merge=lfs -text
+data/157646917_plot_data.npz filter=lfs diff=lfs merge=lfs -text
+data/65777546_plot_data.npz filter=lfs diff=lfs merge=lfs -text
+data/156410110_data.npz filter=lfs diff=lfs merge=lfs -text
+data/156410110_timing.npz filter=lfs diff=lfs merge=lfs -text
