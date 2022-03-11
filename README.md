@@ -6,4 +6,4 @@ Software used in preparing the paper by the CHIME/FRB Coll. "Sub-second periodic
 - `Timing_analysis.ipynb` uses the FRB profiles and ToAs to calculate a periodicity.
 - `Plots.ipynb` is used to produce the plots visible in the paper.
 - `plots` contains the output plots included in the publication.
-- `data` contains archives with numpy arrays used in the notebooks.
+- `data` contains archives with numpy arrays used in the notebooks. Note that files are stored in Git Large File Storage, which requires to install `git lfs` to download the data, see https://git-lfs.github.com
